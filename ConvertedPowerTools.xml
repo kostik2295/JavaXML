@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PowerTools>
+    <Tool>
+        <Model>Model 1</Model>
+        <Handy>Single-handed</Handy>
+        <Origin>USA</Origin>
+        <TC>
+            <EnergyConsumption>Low</EnergyConsumption>
+            <Performance>10</Performance>
+            <Autonomous>true</Autonomous>
+            <EnergyConsumption>Medium</EnergyConsumption>
+            <Performance>20</Performance>
+            <Autonomous>false</Autonomous>
+        </TC>
+        <Material>Metal</Material>
+    </Tool>
+    <Tool>
+        <Model>Model 2</Model>
+        <Handy>Double-handed</Handy>
+        <Origin>Germany</Origin>
+        <TC>
+            <EnergyConsumption>High</EnergyConsumption>
+            <Performance>30</Performance>
+            <Autonomous>true</Autonomous>
+            <EnergyConsumption>Medium</EnergyConsumption>
+            <Performance>25</Performance>
+            <Autonomous>false</Autonomous>
+        </TC>
+        <Material>Plastic</Material>
+    </Tool>
+    <Tool>
+        <Model>Model 3</Model>
+        <Handy>Single-handed</Handy>
+        <Origin>China</Origin>
+        <TC>
+            <EnergyConsumption>Medium</EnergyConsumption>
+            <Performance>15</Performance>
+            <Autonomous>true</Autonomous>
+            <EnergyConsumption>High</EnergyConsumption>
+            <Performance>35</Performance>
+            <Autonomous>true</Autonomous>
+        </TC>
+        <Material>Metal</Material>
+    </Tool>
+</PowerTools>
